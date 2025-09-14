@@ -1,0 +1,3 @@
+rapidfuzz
+sentence-transformers
+torch

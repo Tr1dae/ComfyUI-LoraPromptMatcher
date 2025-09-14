@@ -1,0 +1,30 @@
+# Model files (GGUF, safetensors, etc.)
+model/*.gguf
+model/*.safetensors
+model/*.bin
+model/*.pt
+model/*.pth
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Git files
+git_setup.bat
